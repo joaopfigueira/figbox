@@ -1,0 +1,12 @@
+{
+	"name": "joaofigueira/figbox",
+	"description": "The flexible Vagrant box that developers love",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "João Paulo Figueira",
+			"email": "jpaulogvf@gmail.com",
+			"homepage": "http://joaofigueira.eu"
+		}
+	]
+}
